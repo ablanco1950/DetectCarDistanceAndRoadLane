@@ -20,6 +20,9 @@ It is tested by running:
 
 VIDEODetectCarDistanceAndRoadLane.py
 
+best.pt is the model to detect the cars in the video and was created following the instructions that appear in the project 
+https://github.com/ablanco1950/LicensePlate_Yolov8_MaxFilters training yolo with a custom roboflow dataset
+
 References:
 
 The video used Traffic IP Camera video.mp4 test video, was  downloaded from https://github.com/anmspro/Traffic-Signal-Violation-Detection-System/tree/master/Resources
