@@ -25,9 +25,10 @@ https://github.com/ablanco1950/LicensePlate_Yolov8_MaxFilters training yolo with
 
 References:
 
-The video used Traffic IP Camera video.mp4 test video, was  downloaded from https://github.com/anmspro/Traffic-Signal-Violation-Detection-System/tree/master/Resources
-
   https://medium.com/@batuhansenerr/object-distance-direction-detection-for-blind-and-low-vision-people-c3f3fd83cbef
+
+
+The video used Traffic IP Camera video.mp4 test video, was  downloaded from https://github.com/anmspro/Traffic-Signal-Violation-Detection-System/tree/master/Resources
               
 https://stackoverflow.com/questions/26896837/relationship-between-the-size-of-the-object-and-the-distance-to-the-camera
 
@@ -38,3 +39,6 @@ https://www.todoexpertos.com/categorias/ciencias-e-ingenieria/fisica/respuestas/
 https://es.planetcalc.com/1897/
 
 https://photo.stackexchange.com/questions/40981/what-is-the-relationship-between-size-of-object-with-distance
+
+https://github.com/ablanco1950/LicensePlate_Yolov8_MaxFilters
+
