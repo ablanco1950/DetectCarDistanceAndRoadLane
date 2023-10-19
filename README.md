@@ -4,7 +4,8 @@ It also estimates the lane you are traveling in at any given time based on the a
 
 It is an attempt to apply the project https://medium.com/@batuhansenerr/object-distance-direction-detection-for-blind-and-low-vision-people-c3f3fd83cbef to the case of detection of distances of cars and traffic lanes roads, despite the differences between both cases.
 
-A standard car width is assumed equal to the width of a parking space
+A standard car width is assumed equal to the width of a parking space (2.3 meters).
+To avoid the dispersion of the angles with which the lane is estimated, it is only calculated at a distance of 15 meters from the camera
 
 Requirements: all the files that accompany the project and packages that, if missing, can be installed with a simple pip
 
