@@ -16,6 +16,8 @@ import time
 
 import math
 
+from ultralytics import YOLO
+
 It is tested by running:
 
 VIDEODetectCarDistanceAndRoadLane.py
