@@ -4,6 +4,10 @@ It also estimates the lane you are traveling in at any given time based on the a
 
 It is an attempt to apply the project https://medium.com/@batuhansenerr/object-distance-direction-detection-for-blind-and-low-vision-people-c3f3fd83cbef to the case of detection of distances of cars and traffic lanes roads, despite the differences between both cases.
 
+
+https://github.com/ablanco1950/DetectCarDistanceAndRoadLane/assets/63873131/e636efcc-308f-4818-90c2-ad10e41e04be
+
+
 A standard car width is assumed equal to the width of a parking space (2.3 meters).
 To avoid the dispersion of the angles with which the lane is estimated, it is only calculated at a distance of 15 meters from the camera
 
