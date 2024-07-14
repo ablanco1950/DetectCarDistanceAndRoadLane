@@ -26,6 +26,11 @@ VIDEODetectCarDistanceAndRoadLane.py
 best.pt is the model to detect the cars in the video and was created following the instructions that appear in the project 
 https://github.com/ablanco1950/LicensePlate_Yolov8_MaxFilters training yolo with a custom roboflow dataset
 
+Better results seem to be obtained by running: DetectCarDistance_with_ultralytics.py
+
+adaptation and simplification from https://medium.com/@VK_Venkatkumar/video-analytics-counting-speed-distance-estimation-with-graph-visualization-yolov10-da1c24f7f245
+which also estimates the speed
+
 References:
 
   https://medium.com/@batuhansenerr/object-distance-direction-detection-for-blind-and-low-vision-people-c3f3fd83cbef
@@ -44,4 +49,6 @@ https://es.planetcalc.com/1897/
 https://photo.stackexchange.com/questions/40981/what-is-the-relationship-between-size-of-object-with-distance
 
 https://github.com/ablanco1950/LicensePlate_Yolov8_MaxFilters
+
+ttps://medium.com/@VK_Venkatkumar/video-analytics-counting-speed-distance-estimation-with-graph-visualization-yolov10-da1c24f7f245
 
