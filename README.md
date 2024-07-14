@@ -31,6 +31,16 @@ Better results seem to be obtained by running: DetectCarDistance_with_ultralytic
 adaptation and simplification from https://medium.com/@VK_Venkatkumar/video-analytics-counting-speed-distance-estimation-with-graph-visualization-yolov10-da1c24f7f245
 which also estimates the speed
 
+For that you must have an upgraded version of ultralytics and the proper version of lap
+
+inside conda in the scripts directory of the user environment
+
+python pip-script.py install --no-cache-dir "lapx>=0.5.2"
+
+upgrade ultralytics
+
+python pip-script.py install --upgrade ultralytics
+
 References:
 
   https://medium.com/@batuhansenerr/object-distance-direction-detection-for-blind-and-low-vision-people-c3f3fd83cbef
