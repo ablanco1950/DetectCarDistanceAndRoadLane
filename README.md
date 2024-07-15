@@ -62,3 +62,5 @@ https://github.com/ablanco1950/LicensePlate_Yolov8_MaxFilters
 
 ttps://medium.com/@VK_Venkatkumar/video-analytics-counting-speed-distance-estimation-with-graph-visualization-yolov10-da1c24f7f245
 
+
+
