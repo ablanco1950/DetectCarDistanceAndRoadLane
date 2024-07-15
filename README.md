@@ -60,7 +60,6 @@ https://photo.stackexchange.com/questions/40981/what-is-the-relationship-between
 
 https://github.com/ablanco1950/LicensePlate_Yolov8_MaxFilters
 
-ttps://medium.com/@VK_Venkatkumar/video-analytics-counting-speed-distance-estimation-with-graph-visualization-yolov10-da1c24f7f245
-
+https://medium.com/@VK_Venkatkumar/video-analytics-counting-speed-distance-estimation-with-graph-visualization-yolov10-da1c24f7f245
 
 
