@@ -31,7 +31,7 @@ Better results seem to be obtained by running: DetectCarDistance_with_ultralytic
 adaptation and simplification from https://medium.com/@VK_Venkatkumar/video-analytics-counting-speed-distance-estimation-with-graph-visualization-yolov10-da1c24f7f245
 which also estimates the speed
 
-For that you must have an upgraded version of ultralytics and the proper version of lap
+For that you must have an upgraded version of ultralytics and the proper version of lap:
 
 inside conda in the scripts directory of the user environment
 
