@@ -26,7 +26,17 @@ VIDEODetectCarDistanceAndRoadLane.py
 best.pt is the model to detect the cars in the video and was created following the instructions that appear in the project 
 https://github.com/ablanco1950/LicensePlate_Yolov8_MaxFilters training yolo with a custom roboflow dataset
 
-Better results seem to be obtained by running: DetectCarDistance_with_ultralytics.py
+Another test can be performed by running the program
+
+CarsDistances.py
+
+Which is an adaptation and simplification of the project:
+
+https://github.com/VforVitorio/F1_AI_team_detection/blob/main/YOLO_fine_tune.ipynb
+
+In this case, the calculation of distances from a car to other cars in its vicinity is simulated.
+
+Good results seem to be obtained by running: DetectCarDistance_with_ultralytics.py
 
 adaptation and simplification from https://medium.com/@VK_Venkatkumar/video-analytics-counting-speed-distance-estimation-with-graph-visualization-yolov10-da1c24f7f245
 which also estimates the speed
@@ -47,6 +57,10 @@ References:
 
 
 The video used: Traffic IP Camera video.mp4 test video, was  downloaded from https://github.com/anmspro/Traffic-Signal-Violation-Detection-System/tree/master/Resources
+
+https://github.com/VforVitorio/F1_AI_team_detection/blob/main/YOLO_fine_tune.ipynb
+
+https://medium.com/@VforVitorio/decoding-the-grid-teaching-ai-to-see-formula-1-5c3018011811
               
 https://stackoverflow.com/questions/26896837/relationship-between-the-size-of-the-object-and-the-distance-to-the-camera
 
