@@ -35,7 +35,7 @@ Which is an adaptation and simplification of the project:
 https://github.com/VforVitorio/F1_AI_team_detection/blob/main/YOLO_fine_tune.ipynb
 
 In this case, the calculation of distances from a car to other cars in its vicinity is simulated.
-<video src='your URL here' width=180/>
+<video src='[your URL here](https://github.com/ablanco1950/DetectCarDistanceAndRoadLane/blob/main/ReducedCarsDistances_output.mp4)' width=180/>
 
 
 
