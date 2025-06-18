@@ -38,6 +38,7 @@ In this case, the calculation of distances from a car to other cars in its vicin
 https://github.com/ablanco1950/DetectCarDistanceAndRoadLane/blob/main/ReducedCarsDistances_output.mp4
 
 
+
 Good results seem to be obtained by running: DetectCarDistance_with_ultralytics.py
 
 adaptation and simplification from https://medium.com/@VK_Venkatkumar/video-analytics-counting-speed-distance-estimation-with-graph-visualization-yolov10-da1c24f7f245
