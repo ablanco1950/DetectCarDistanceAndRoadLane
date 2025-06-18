@@ -38,6 +38,10 @@ In this case, the calculation of distances from a car to other cars in its vicin
 <video src='https://github.com/ablanco1950/DetectCarDistanceAndRoadLane/blob/main/ReducedCarsDistances_output.mp4' width=180/>
 
 
+https://github.com/user-attachments/assets/46ad1c43-1996-44c6-8828-4037cf745e21
+
+
+
 
 Good results seem to be obtained by running: DetectCarDistance_with_ultralytics.py
 
