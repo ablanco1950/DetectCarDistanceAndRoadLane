@@ -37,12 +37,6 @@ https://github.com/VforVitorio/F1_AI_team_detection/blob/main/YOLO_fine_tune.ipy
 In this case, the calculation of distances from a car to other cars in its vicinity is simulated.
 <video src='https://github.com/ablanco1950/DetectCarDistanceAndRoadLane/blob/main/ReducedCarsDistances_output.mp4' width=180/>
 
-
-https://github.com/user-attachments/assets/46ad1c43-1996-44c6-8828-4037cf745e21
-
-
-
-
 Good results seem to be obtained by running: DetectCarDistance_with_ultralytics.py
 
 adaptation and simplification from https://medium.com/@VK_Venkatkumar/video-analytics-counting-speed-distance-estimation-with-graph-visualization-yolov10-da1c24f7f245
