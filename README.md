@@ -52,6 +52,8 @@ upgrade ultralytics
 
 python pip-script.py install --upgrade ultralytics
 
+A requirements.txt file is attached
+
 References:
 
   https://medium.com/@batuhansenerr/object-distance-direction-detection-for-blind-and-low-vision-people-c3f3fd83cbef
