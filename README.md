@@ -36,7 +36,6 @@ https://github.com/VforVitorio/F1_AI_team_detection/blob/main/YOLO_fine_tune.ipy
 
 In this case, the calculation of distances from a car to other cars in its vicinity is simulated.
 
-![Fig1](https://github.com/ablanco1950/Drone_Detection_YoloFromScratch/blob/main/Figure_1.png)
 
 Good results seem to be obtained by running: DetectCarDistance_with_ultralytics.py
 
