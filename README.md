@@ -39,6 +39,10 @@ https://github.com/ablanco1950/DetectCarDistanceAndRoadLane/blob/main/ReducedCar
 
 
 
+
+https://github.com/user-attachments/assets/8f83d5c9-d8ad-4a76-b1c9-d843dcaaf134
+
+
 Good results seem to be obtained by running: DetectCarDistance_with_ultralytics.py
 
 adaptation and simplification from https://medium.com/@VK_Venkatkumar/video-analytics-counting-speed-distance-estimation-with-graph-visualization-yolov10-da1c24f7f245
