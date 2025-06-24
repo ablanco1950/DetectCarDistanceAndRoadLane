@@ -1,6 +1,6 @@
 # DetectCarDistanceAndRoadLane
 Project that estimates the distance a car is on a road based on the relationship between the real size of the car and the size it appears in the video obtained.
-It also estimates the lane you are traveling in at any given time based on the angle between the position of the car and the video camera, and you can even guess lane change intentions based on this angle. Also included is a test using the new distance calculation functions with Ultralytics and other test adapting the project https://github.com/VforVitorio/F1_AI_team_detection/blob/main/YOLO_fine_tune.ipynb.
+It also estimates the lane you are traveling in at any given time based on the angle between the position of the car and the video camera, and you can even guess lane change intentions based on this angle. Also included is a test using the new distance calculation functions with Ultralytics and other test adapting the project https://github.com/VforVitorio/F1_AI_team_detection.
 
 It is an attempt to apply the project https://medium.com/@batuhansenerr/object-distance-direction-detection-for-blind-and-low-vision-people-c3f3fd83cbef to the case of detection of distances of cars and traffic lanes roads, despite the differences between both cases.
 
@@ -60,6 +60,8 @@ References:
 
 
 The video used: Traffic IP Camera video.mp4 test video, was  downloaded from https://github.com/anmspro/Traffic-Signal-Violation-Detection-System/tree/master/Resources
+
+https://github.com/VforVitorio/F1_AI_team_detection
 
 https://github.com/VforVitorio/F1_AI_team_detection/blob/main/YOLO_fine_tune.ipynb
 
